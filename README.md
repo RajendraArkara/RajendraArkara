@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajendraArkara
 - 👀 I’m interested in figma, R, SQL, MongoDB, Godot
-- 🌱 I’m currently learning html hehe
+- 🌱 I’m currently learning MongoDB and Godot
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me rajendraarkara@gmail.com
 
