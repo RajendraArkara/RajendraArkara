@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RajendraArkara
-- 👀 I’m interested in figma, R, SQL, MongoDB, Godot
-- 🌱 I’m currently learning MongoDB and Godot
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me rajendraarkara@gmail.com
+- 👀 Interested in Figma, R, SQL, MongoDB, and Godot
+- 🌱 Currently learning MongoDB and Godot
+- 💞️ Open to collaborations 
+- 📫 Reach me at rajendraarkara@gmail.com
 
 <!---
 RajendraArkara/RajendraArkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
